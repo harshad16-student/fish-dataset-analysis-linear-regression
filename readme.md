@@ -1,1 +1,1 @@
-Data Analysis of the fish dataset
+Applying Linear Regression to the fish dataset and draw meaningful conclusions
